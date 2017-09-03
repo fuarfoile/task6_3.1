@@ -1,0 +1,6 @@
+2017-09-03 12:35:36.233 [main] INFO  Converter: decToBin, input number = -9
+2017-09-03 12:35:36.235 [main] ERROR Converter: decToBin, input number can't be less zen zero
+2017-09-03 12:35:36.236 [main] INFO  Converter: decToOct, input number = -9
+2017-09-03 12:35:36.236 [main] ERROR Converter: decToOct, input number can't be less zen zero
+2017-09-03 12:35:36.236 [main] INFO  Converter: decToHex, input number = -9
+2017-09-03 12:35:36.236 [main] ERROR Converter: decToHex, input number can't be less zen zero

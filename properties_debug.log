@@ -1,0 +1,13 @@
+2017-08-31 20:19:38.052 [main] INFO  Converter: decToBin, number = 25
+2017-08-31 20:20:10.922 [main] INFO  Converter: decToBin, number = 1
+2017-08-31 20:20:37.106 [main] INFO  Converter: decToBin, number = 3
+2017-08-31 20:21:05.610 [main] INFO  Converter: decToBin, number = 12
+2017-08-31 20:21:38.178 [main] INFO  Converter: decToBin, number = 1
+2017-08-31 20:21:59.490 [main] INFO  Converter: decToBin, number = 2
+2017-08-31 20:22:16.964 [main] INFO  Converter: decToBin, number = 2
+2017-08-31 20:24:55.597 [main] INFO  Converter: decToBin, number = 333
+2017-08-31 20:24:55.599 [main] INFO  Converter: decToOct, number = 333
+2017-08-31 20:24:55.600 [main] INFO  Converter: decToHex, number = 333
+2017-09-01 21:02:13.140 [main] INFO  Converter: decToBin, number = 25
+2017-09-01 21:02:13.143 [main] INFO  Converter: decToOct, number = 25
+2017-09-01 21:02:13.143 [main] INFO  Converter: decToHex, number = 25
